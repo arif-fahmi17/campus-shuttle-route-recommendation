@@ -4,13 +4,8 @@ A web-based system designed to help students identify suitable campus shuttle bu
 
 ## Problem Statement
 
-Shuttle bus schedules and routes are provided through PDF documents, requiring students to manually search for relevant information and determine which bus to take to reach their destinations.
-Evidence: The paper identifies problems with university bus reliability and punctuality, explaining that students may wait for buses without knowing their exact locations. It proposes a GPS-based mobile application that displays bus locations, schedules, and route stops. ([Sulaiman et al., 2025](https://www.researchgate.net/publication/395820386_OnBoard_A_Real-Time_Bus_Tracking_Mobile_Application_for_University_Campus)).
+Student commuters at Universiti Teknologi MARA (UiTM) Shah Alam frequently face significant friction when navigating campus transit due to static, unintegrated PDF schedules and uneven bus stop coverage. Because designated stops fail to adequately serve key student dormitories and academic faculties, students are forced to manually decipher routes and endure exhausting, unoptimized last-mile walking distances across the vast, hilly terrain. Furthermore, standard transit planning requires uncoordinated multi-line bus transfers, leading to prolonged waiting times and unpredictable travel durations. This lack of an integrated, automated route recommendation platform disrupts students' daily schedules, increases physical fatigue under harsh weather conditions, and directly contributes to recurring lecture tardiness.
 
-Excessive Walking Distance: Bus stops are unevenly located across campus and do not drop students close enough to their actual dorms, sports centers, or classrooms. 
-Evidence: A spatial study on UiTM campus transit found that current bus stop distribution needs improvement because it does not satisfy demand at dormitories, sports centers, and faculties, forcing users to expend high physical effort to bridge the last-mile distance. ([Andi & Mohd Amin, 2024](https://www.researchgate.net/publication/377063654_Evaluating_Bus_Transit_System_for_Efficient_Last_Mile_Transportation_in_Universiti_Teknologi_MARA_UiTM_Shah_Alam)).
-
-*Note: Verify this problem description against actual campus transport information and supporting evidence before submitting your assignment.*
 
 ## Project Objectives
 
@@ -20,13 +15,10 @@ Evidence: A spatial study on UiTM campus transit found that current bus stop dis
 
 ## Documents
 
-- [Problem Statement](docs/problem-statement.md)
-- [Requirements](docs/requirements.md)
-- [User Stories](docs/user-stories.md)
+- [Problem Statement](problem-statement.md)
+- [Requirements](requirements.md)
+- [User Stories](user-stories.md)
 
-## Technology
-
-To be determined through research into suitable specialized technologies for the proposed system.
 
 ## Project Status
 
@@ -34,4 +26,4 @@ Planning and requirements analysis.
 
 ## Author
 
-Arif
+Arif Fahmi
