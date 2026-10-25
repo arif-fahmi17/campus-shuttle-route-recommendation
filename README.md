@@ -15,9 +15,9 @@ Student commuters at Universiti Teknologi MARA (UiTM) Shah Alam frequently face 
 
 ## Documents
 
-- [Problem Statement](problem-statement.md)
-- [Requirements](requirements.md)
-- [User Stories](user-stories.md)
+- [Problem Statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User Stories](docs/user-stories.md)
 
 
 ## Project Status
